@@ -81,5 +81,5 @@ The **Doc-Connect Healthcare Application** is a Java-based system designed to st
 ### ▶️ Run the Application
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/healthcare-application.git
+   git clone https://github.com/Sachini527/Healthcare-Application.git
 
